@@ -1,5 +1,5 @@
 # MooJi Hur
 
 ## Contacts
-[mooji.hur@gmail.com](mailto:mooji.hur@gmail.com)
+- mail : [mooji.hur@gmail.com](mailto:mooji.hur@gmail.com)
 
