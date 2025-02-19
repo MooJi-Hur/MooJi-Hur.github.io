@@ -1,3 +1,11 @@
+---
+title: 가상화와 KVM
+description: Cloud Infrastructure
+author: MooJi
+categories: [Cloud]
+tags: [Cloud Computing]
+---
+
 ## 가상화
 - 컴퓨팅 자원을 소프트웨어로 제어하여 가상 시스템 생성
 

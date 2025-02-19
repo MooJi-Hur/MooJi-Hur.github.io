@@ -1,3 +1,11 @@
+---
+title: IaaS and PaaS
+description: IaaS와 PaaS 개념
+author: MooJi
+categories: [Cloud]
+tags: [Cloud Computing]
+---
+
 ## IaaS
 - 물리/가상 컴퓨팅 자원(스토리지, 네트워크 등)을 맞춤형으로 제공
 
